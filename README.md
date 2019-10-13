@@ -1,4 +1,4 @@
-# Obj_Oriented_Prog-22-839-614
+# Obj_Oriented_Prog :: 22-839-614
 This repository includes Yifu's assignments for the course Object-Oriented-Programming 22:839:614 of Master of Quantitative Finance program in Rutgers University.
 
 Semester: fall 2019<br/>
