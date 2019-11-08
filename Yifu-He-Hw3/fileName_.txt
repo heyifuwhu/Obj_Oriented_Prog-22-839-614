@@ -1,0 +1,12 @@
+/Users/yifuhe/Desktop/hw3/fin/t1.txt
+/Users/yifuhe/Desktop/hw3/fin/t3.txt
+/Users/yifuhe/Desktop/hw3/fin/t2.txt
+/Users/yifuhe/Desktop/hw3/fin/t11.txt
+/Users/yifuhe/Desktop/hw3/fin/t6.txt
+/Users/yifuhe/Desktop/hw3/fin/t7.txt
+/Users/yifuhe/Desktop/hw3/fin/t10.txt
+/Users/yifuhe/Desktop/hw3/fin/t12.txt
+/Users/yifuhe/Desktop/hw3/fin/t5.txt
+/Users/yifuhe/Desktop/hw3/fin/t4.txt
+/Users/yifuhe/Desktop/hw3/fin/t9.txt
+/Users/yifuhe/Desktop/hw3/fin/t8.txt
